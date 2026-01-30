@@ -12,7 +12,11 @@
 }
 .box_1 {
 }
-.ellipse {
+.box_2 {
+}
+.box_3 {
+}
+._形状 {
 }
 ._图片 {
 }
@@ -88,9 +92,5 @@
   color:#999999;
 }
 ._表单禁用 {
-}
-._流程图形状 {
-}
-.icon {
 }
 textarea, select, input, button, div, svg { outline: none; }
